@@ -1,3 +1,3 @@
 # kottans-frontend
 ## Linux CLI и HTTP
-task_linux_cli/linuxsurvival.jpg
+https://github.com/dafxf/kottans-frontend/blob/master/README.md
